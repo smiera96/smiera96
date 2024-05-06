@@ -7,9 +7,12 @@
 
 - ⚡ Fun fact: **Music & Love**
 
+- </> Codely Lover ❤️ https://codely.com/
+
 <h3 align="left">My projects:</h3>
 
 - <a href="https://smiera96.github.io/Roll-Sounds-de-Pana/" target="_blank">Roll Sounds de Pana</a>
+- <a href="#" target="_blank">Roll Dice N Rust (coming soon)</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
