@@ -12,7 +12,7 @@
 <h3 align="left">My projects:</h3>
 
 - <a href="https://smiera96.github.io/Roll-Sounds-de-Pana/" target="_blank">Roll Sounds de Pana</a>
-- <a href="#" target="_blank">Roll Dice N Rust (coming soon)</a>
+- <a href="https://github.com/smiera96/roll-d-n-rust" target="_blank">Roll D(ice) N Rust - NEW 🎉🎉🎉</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
