@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact: **Music & Love**
 
+- Domain-Driven Design (DDD), Ports and Adapters, and Spaghetti 😜
+
 - </> Codely Lover ❤️ https://codely.com/
 
 <h3 align="left">My projects:</h3>
