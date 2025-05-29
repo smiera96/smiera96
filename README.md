@@ -16,7 +16,7 @@
 - <a href="https://smiera96.github.io/Roll-Sounds-de-Pana/" target="_blank">Roll Sounds de Pana</a>
 - <a href="https://github.com/smiera96/roll-d-n-rust" target="_blank">Roll D(ice) N Rust</a>
 - <a href="https://github.com/smiera96/FunkyDev---AdventJS-2024" target="_blank">AdventJS 2024 | A Midudev initiative</a>
-- <a href="http://cs2combos.com/" target="_blank">CS2Combos [NEW 🎉🎉🎉]</a>
+- <a href="http://cs2combos.com/" target="_blank">CS2Combos</a>🎉🎉🎉NEW🎉🎉🎉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
